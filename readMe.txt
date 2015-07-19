@@ -1,4 +1,4 @@
-The deliverable include following 8 files.
+The project include following 8 files.
 1) feeds
 2) logo.jpg
 3) tags_generator.pl
